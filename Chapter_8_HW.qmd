@@ -60,8 +60,8 @@ source("A.R")
 
 5.  Write one statement using the inline static code "\texttt" and with \\verb
 
-"We can save objects in R using the \texttt{save()} function."
-"To load an object, use the \verb|load()| function in R."
+"We can \verb|save| objects in R using the \texttt{save()} function."
+
 
 https://github.com/ldgao11/Chapter_8_HW.git
 
